@@ -1,0 +1,69 @@
+apartments=[14.3, 26.2, 97.5, 31.8, 86.7, 71.8, 36.3, 74.5, 3.4, 8.2, 45.3, 43.9, 78.5, 48.0, 4.9, 33.6, 36.7, 9.1, 89.9, 84.0, 98.6]
+favs=[]
+
+[0] 14.3 was added to favorites (Case 0)
+favs=[14.3]
+
+[1] 26.2 was added to favorites
+favs=[14.3, 26.2]
+
+[2] 97.5 was added to favorites
+favs=[14.3, 26.2, 97.5]
+
+[3] 31.8 was NOT a favorites because the best found apartment is 97.5
+favs=[14.3, 26.2, 97.5]
+
+[4] 86.7 was NOT a favorites because the best found apartment is 97.5
+favs=[14.3, 26.2, 97.5]
+
+[5] 71.8 was NOT a favorites because the best found apartment is 97.5
+favs=[14.3, 26.2, 97.5]
+
+[6] 36.3 was NOT a favorites because the best found apartment is 97.5
+favs=[14.3, 26.2, 97.5]
+
+[7] 74.5 was NOT a favorites because the best found apartment is 97.5
+favs=[14.3, 26.2, 97.5]
+
+[8] 3.4 was NOT a favorites because the best found apartment is 97.5
+favs=[14.3, 26.2, 97.5]
+
+[9] 8.2 was NOT a favorites because the best found apartment is 97.5
+favs=[14.3, 26.2, 97.5]
+
+[10] 45.3 was NOT a favorites because the best found apartment is 97.5
+favs=[14.3, 26.2, 97.5]
+
+[11] 43.9 was NOT a favorites because the best found apartment is 97.5
+favs=[14.3, 26.2, 97.5]
+
+[12] 78.5 was NOT a favorites because the best found apartment is 97.5
+favs=[14.3, 26.2, 97.5]
+
+[13] 48.0 was NOT a favorites because the best found apartment is 97.5
+favs=[14.3, 26.2, 97.5]
+
+[14] 4.9 was NOT a favorites because the best found apartment is 97.5
+favs=[14.3, 26.2, 97.5]
+
+[15] 33.6 was NOT a favorites because the best found apartment is 97.5
+favs=[14.3, 26.2, 97.5]
+
+[16] 36.7 was NOT a favorites because the best found apartment is 97.5
+favs=[14.3, 26.2, 97.5]
+
+[17] 9.1 was NOT a favorites because the best found apartment is 97.5
+favs=[14.3, 26.2, 97.5]
+
+[18] 89.9 was NOT a favorites because the best found apartment is 97.5
+favs=[14.3, 26.2, 97.5]
+
+[19] 84.0 was NOT a favorites because the best found apartment is 97.5
+favs=[14.3, 26.2, 97.5]
+
+[20] 98.6 was added to favorites
+favs=[14.3, 26.2, 97.5, 98.6]
+
+
+STOPPING BECAUSE NO MORE APARTMENTS
+[14.3, 26.2, 97.5, 98.6]
